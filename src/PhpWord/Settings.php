@@ -29,7 +29,7 @@ class Settings
      *
      * @const string
      */
-    const ZIPARCHIVE = 'ZipArchive';
+    const ZIPARCHIVE = 'PclZip'; //ZipArchive
     const PCLZIP = 'PclZip';
     const OLD_LIB = 'PhpOffice\\PhpWord\\Shared\\ZipArchive'; // @deprecated 0.11
 
